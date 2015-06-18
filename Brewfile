@@ -3,7 +3,7 @@
 
 ## caskroom/cask
 tap caskroom/cask
-brew brew-cask
+brew caskroom/cask/brew-cask
 cask alfred
 cask atom
 cask basictex
