@@ -27,6 +27,7 @@ cask virtualbox
 cask xquartz
 cask disk-inventory-x
 cask google-japanese-ime
+cask parallels-desktop
 
 ## fonts
 cask font-source-han-code-jp
