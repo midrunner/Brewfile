@@ -26,6 +26,10 @@ cask vagrant
 cask virtualbox
 cask xquartz
 
+## fonts
+cask font-source-han-code-jp
+
+
 ## caskroom/versions
 tap caskroom/versions
 cask java7
