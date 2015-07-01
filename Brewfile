@@ -25,6 +25,7 @@ cask sourcetree
 cask vagrant
 cask virtualbox
 cask xquartz
+cask disk-inventory-x
 
 ## fonts
 cask font-source-han-code-jp
