@@ -28,6 +28,10 @@ cask xquartz
 cask disk-inventory-x
 cask google-japanese-ime
 cask parallels-desktop
+cask skitch
+cask refresh-finder
+cask the-unarchiver
+cask xtrafinder
 
 ## fonts
 cask font-source-han-code-jp
