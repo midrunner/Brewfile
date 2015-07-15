@@ -1,6 +1,11 @@
 
 # tap repositories and their packages
+/* commit test by sota hirose */
 
+　    ／l、 
+ 　　 ( ﾟ､ ｡ ﾌ 
+　　 ｣　 "ヽ 
+　　()ιし(~)～ 
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
